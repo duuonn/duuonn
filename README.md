@@ -22,3 +22,9 @@
   <a href = "mailto:eduteixeira006@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-rodrigues-61851923a" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
+
+##
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/duuonn/duuonn/output/github-snake.svg" alt="Snake animation" />
+</div>
